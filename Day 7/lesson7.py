@@ -8,7 +8,7 @@ Deda = int(input("DEDA SHEIYVANE SHENI ASAKI ?: "))
 Mama = int(input("MAMA SHEIYVANE SHENI ASAKI ?: "))
 
 if Deda > Mama :
-    print("Kaci ichagreba")
+    print("Kaci ichagreba") #Dedaa didi
 
 if Mama > Deda :
-    print("Qali ichagreba")
+    print("Qali ichagreba") #Mamaa didi
