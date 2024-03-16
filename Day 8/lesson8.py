@@ -16,7 +16,7 @@ if score > 90 and score < 100:
 elif score > 70 and score < 90:
     print("swavla dagipinansdebat 1500 larit")
 
-elif score > 40 or score < 70:
+elif score > 40 and score < 70:
     print("swavla dagipinansdebat 500 larit")
 
 elif score > 0 and score < 40:
